@@ -53,7 +53,7 @@ const Hero = () => {
               
               <div className="flex gap-6 justify-center lg:justify-start pt-6">
                 <a
-                  href="darshandachu913@gmail.com"
+                  href="mailto:darshandachu913@gmail.com"
                   className="text-primary-foreground/70 hover:text-accent transition-fast"
                 >
                   <Mail size={24} />
