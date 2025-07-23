@@ -141,10 +141,6 @@ const Projects = () => {
           
           <div className="text-center mt-12">
             <p className="text-muted-foreground mb-4">More projects coming soon...</p>
-            <Button variant="outline">
-              <Github size={16} className="mr-2" />
-              View All Projects on GitHub
-            </Button>
           </div>
         </div>
       </div>
